@@ -25,7 +25,7 @@
 </p>
 
 
-<h2 align="center">💡 COSA È 222-BOT?</h2>
+<h2 align="center">💡 COSA È NAPOLIBOT?</h2>
 
 > Un **bot WhatsApp multifunzione**, pensato per gruppi, business e power users.  
 > 💣 Anti-privato, 💬 Risposte automatiche, 📷 AI, 🧠 Comandi avanzati, e tanto altro!
