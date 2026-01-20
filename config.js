@@ -8,8 +8,8 @@ global.confirmCode = "222BOTUP"
 
 global.owner = [
     ['393336413960', 'Salvatore', true],
-    ['393773800915', 'Andrea, true],
-    ['19184025124', 'Simone, true],
+    ['393773800915', 'Andrea',true],
+    ['19184025124', 'Simone', true],
 
  
 
