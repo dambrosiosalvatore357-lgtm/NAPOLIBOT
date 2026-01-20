@@ -7,9 +7,9 @@ global.botnumber = ""
 global.confirmCode = "222BOTUP"
 
 global.owner = [
-    ['393201448716', 'filo', true],
-    ['380508704573', 'min', true],
-     
+    ['393336413960', 'Salvatore', true],
+    ['393773800915', 'Andrea, true],
+    ['19184025124', 'Simone, true],
 
  
 
