@@ -89,9 +89,9 @@ INFINITY-HOST	panel-infinitywa.store	WhatsApp
 
 ### 📞 CONTATTI
 
-👤 Sviluppatore: Filippo222
+👤 Sviluppatore: Salvatore 
 
-📱 Numero: +39 320 1448716
+📱 Numero: +39 333 641 3960
 
 🛠️ Supporto tecnico: Solo collaboratori verificati
 
